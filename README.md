@@ -30,7 +30,7 @@ contribute!
 1. Identify how to create a pull request from a fork to a repo
 2. Identify how to add commits to an existing pull request
 
-## Explain What a Pull Requests Is
+## Explain What a Pull Request Is
 
 A pull request is a request to the owner of another repo to take changes you
 made in a branch on your _fork_ of their repo and integrate it into theirs _as
