@@ -19,10 +19,7 @@ Through this process, **anyone** can
    feature branch _back to the original repository_.
 
 Instead of the owner working on their codebase alone, _anyone_ can contribute
-tests, documentation fixes, new features, layout, graphics, etc. How does this
-feature work? It's an awesome feeling when you wake up and see that someone
-you've never met has made an improvement to your code that they'd like to
-contribute!
+tests, documentation fixes, new features, layout, graphics, etc. It's an awesome feeling when you wake up and see that someone you've never met has made an improvement to your code that they'd like to contribute! How does this feature work?
 
 ## Objectives
 
