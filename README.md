@@ -73,6 +73,7 @@ following example:
 #### Step 1
 
 ![](https://curriculum-content.s3.amazonaws.com/gitpulls/2.png)
+Be sure to click New pull request on your fork instead of on the source repo. Otherwise, GitHub won't see the changes that you want to make.
 
 #### Step 2
 
